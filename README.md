@@ -45,7 +45,7 @@ webpack+vuejs小测试
 
 ##安装
 <pre>
-    $ npm install vue-msgbox --save
+    $ npm install
 </pre>
 
 ##运行
