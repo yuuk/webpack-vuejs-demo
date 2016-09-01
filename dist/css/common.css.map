@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///webpack:///src/components/test.vue"],"names":[],"mappings":"AACA,KACC,WACA,GAAG,UAAW,CAAC,C","file":"./css/common.css?v=b22c7c47a6a430860fce","sourcesContent":["\nbody{\n\tcolor:#ddd;\n\th2{color:#ff0;}\n}\n\n\n\n/** WEBPACK FOOTER **\n ** webpack:///src/components/test.vue\n **/"],"sourceRoot":""}
