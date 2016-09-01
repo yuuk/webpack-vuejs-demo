@@ -41,6 +41,14 @@ webpack+vuejs小测试
         │  
         └─import
                 variables.less
-                
+</pre>
 
+##安装
+<pre>
+    $ npm install vue-msgbox --save
+</pre>
+
+##运行
+<pre>
+    $ npm start
 </pre>
