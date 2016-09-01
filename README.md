@@ -1,7 +1,7 @@
 # webpack-vuejs-demo
 webpack+vuejs小测试
 
-#目录结构
+##目录结构
 <pre>
 │  .babelrc
 │  package.json
