@@ -1,4 +1,3 @@
-import {yuuk}  from './js/sub';
 import Vue from './js/vue';
 import App from './components/test';
 
@@ -8,5 +7,3 @@ var vm = new Vue({
     	'app': App
   	}
 });
-
-//require('./less/main.less');

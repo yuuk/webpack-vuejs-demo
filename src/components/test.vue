@@ -16,10 +16,6 @@
 
 require('../less/main.less');
 
-import cartList from '../data/product.json';
-
-console.log(cartList);
-
 export default {
 	data () {
 		return {
